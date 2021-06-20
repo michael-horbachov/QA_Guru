@@ -10,7 +10,7 @@
 # Properties files
 *.properties
 
-# Package Files #
+### Package Files ###
 *.jar
 *.war
 *.nar
